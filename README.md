@@ -16,6 +16,6 @@
 ### A_Maze_Ing <span style="background:#009427"><font color="white">**125/125**</font></span> 
 - [Descripción y codigo](https://github.com/pmelo-cl/A_Maze_Ing)
 ### Python Modules <span style="background:#009427"><font color="white">**100/100**</font></span> 
-- [Descripción y codigo](https://github.com/pmelo-cl/Python_Modules)
+- [Descripción y codigo](https://github.com/pmelo-cl/Python-Modules)
 ## Milestone 3
 ### Fly-In
