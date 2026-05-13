@@ -18,4 +18,5 @@
 ### Python Modules <span style="background:#009427"><font color="white">**100/100**</font></span> 
 - [Descripción y codigo](https://github.com/pmelo-cl/Python-Modules)
 ## Milestone 3
-### Fly-In
+### Fly-In <span style="background:#009427"><font color="white">**125/100**</font></span> 
+- [Descripción y codigo](https://github.com/pmelo-cl/Fly-In)
