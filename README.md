@@ -12,7 +12,7 @@
 | | **Python Modules** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Python-Modules) |
 | **3** | **Fly-In** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Fly-In) |
 | | **Call_me_Maybe** | ![En Curso](https://img.shields.io/badge/Estado-En_Curso-blue) | ![En progreso](https://img.shields.io/badge/Status-In%20Progress-lightgrey) | [Ver Repo](https://github.com/pmelo-cl/Call_me_maybe) |
-| | **Codexion** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Succes) | ![100/100](https://img.shields.io/badge/Score-100%2F100-lightgrey) | [Ver Repo](https://github.com/pmelo-cl/Codexion) |
+| | **Codexion** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Succes) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Codexion) |
 
 A continuación, detallo los logros técnicos más significativos alcanzados durante cada Milestone, enfocándome en la eficiencia del código y la resolución de problemas complejos.
 
