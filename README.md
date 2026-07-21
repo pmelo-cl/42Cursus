@@ -30,3 +30,7 @@ A continuación, detallo los logros técnicos más significativos alcanzados dur
 #### Milestone 3: Especialización
 *   **Fly-In:** Alcancé la excelencia técnica en este proyecto de Python con un score de **125/100**, aplicando algoritmos de busqueda por nodos y un controlador de trafico que gestiona los puntos de mucha afluencia.
 *   **Codexion** Desarrolle un programa multihilo, logrando implementar algoritmos de prioridades de cola como FIFO y EDF así como la gestión de comunicaciones entre distintos hilos.
+*   **Call_me_maybe** Desarrolle un programa que hace uso de una LLM de QWEN donde el proposito es la optimización, tanto temporal como de precisión de la LLM mediante decodificacion restringida y metodos de optimización como caching y bashing.
+
+#### Milestone 4
+*   **Pac_man:** Desarrollo del videojuego clasico Pacman con el uso de pygame, haciendo uso de propramacion orientada a objetos
