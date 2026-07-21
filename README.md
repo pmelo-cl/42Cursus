@@ -3,15 +3,15 @@
 # Common Core
  Milestone | Proyecto | Estatus | Puntuación | Enlace |
 | :--- | :--- | :---: | :---: | :--- |
-| **0** | **Libft** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/125](https://img.shields.io/badge/Score-125%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/Libft) |
+| **0** | **Libft** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Libft) |
 | **1** | **ft_printf** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/125](https://img.shields.io/badge/Score-100%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/printf) |
-| | **get_next_line** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/125](https://img.shields.io/badge/Score-125%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/get_next_line) |
+| | **get_next_line** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/get_next_line) |
 | | **Born2beRoot** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/125](https://img.shields.io/badge/Score-100%2F125-success) | - |
 | **2** | **push_swap** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/125](https://img.shields.io/badge/Score-100%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/push_swap) |
-| | **A_Maze_Ing** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/125](https://img.shields.io/badge/Score-125%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/A_Maze_Ing) |
+| | **A_Maze_Ing** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/A_Maze_Ing) |
 | | **Python Modules** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Python-Modules) |
 | **3** | **Fly-In** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Fly-In) |
-| | **Call_me_Maybe** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![118/125](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Call_me_maybe) |
+| | **Call_me_Maybe** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![118/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Call_me_maybe) |
 | | **Codexion** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Codexion) |
 
 A continuación, detallo los logros técnicos más significativos alcanzados durante cada Milestone, enfocándome en la eficiencia del código y la resolución de problemas complejos.
