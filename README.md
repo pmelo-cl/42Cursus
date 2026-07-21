@@ -13,6 +13,7 @@
 | **3** | **Fly-In** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Fly-In) |
 | | **Call_me_Maybe** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![118/100](https://img.shields.io/badge/Score-118%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Call_me_maybe) |
 | | **Codexion** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Codexion) |
+| **4** | **Pac-Man** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Pac-Man) |
 
 A continuación, detallo los logros técnicos más significativos alcanzados durante cada Milestone, enfocándome en la eficiencia del código y la resolución de problemas complejos.
 
