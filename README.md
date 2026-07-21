@@ -13,7 +13,7 @@
 | **3** | **Fly-In** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Fly-In) |
 | | **Call_me_Maybe** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![118/100](https://img.shields.io/badge/Score-118%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Call_me_maybe) |
 | | **Codexion** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Codexion) |
-| **4** | **Pac-Man** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Pac-Man) |
+| **4** | **Pac_Man** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-Success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Pac_Man) |
 
 A continuación, detallo los logros técnicos más significativos alcanzados durante cada Milestone, enfocándome en la eficiencia del código y la resolución de problemas complejos.
 
@@ -27,6 +27,6 @@ A continuación, detallo los logros técnicos más significativos alcanzados dur
 *   **A_Maze_Ing:** Creé un generador de laberintos perfectos en Python con un score de **125/125**, implementando el algoritmo de *Recursive Backtracking* para garantizar la conectividad total sin ciclos.
 *   **Python Modules:** Consolidé el dominio de la programación de alto nivel logrando una calificación de **100/100**, mediante el desarrollo de una serie de módulos técnicos que abarcan desde la manipulación de tipos de datos complejos hasta la implementación de programación funcional y gestión avanzada de excepciones.
 
-#### Milestone 3: Especialización y Nuevos Horizontes
+#### Milestone 3: Especialización
 *   **Fly-In:** Alcancé la excelencia técnica en este proyecto de Python con un score de **125/100**, aplicando algoritmos de busqueda por nodos y un controlador de trafico que gestiona los puntos de mucha afluencia.
 *   **Codexion** Desarrolle un programa multihilo, logrando implementar algoritmos de prioridades de cola como FIFO y EDF así como la gestión de comunicaciones entre distintos hilos.
