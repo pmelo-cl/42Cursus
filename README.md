@@ -4,7 +4,7 @@
  Milestone | Proyecto | Estatus | Puntuación | Enlace |
 | :--- | :--- | :---: | :---: | :--- |
 | **0** | **Libft** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/Libft) |
-| **1** | **ft_printf** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F125-success) | [Ver Repo](https://github.com/pmelo-cl/printf) |
+| **1** | **ft_printf** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/printf) |
 | | **get_next_line** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![125/100](https://img.shields.io/badge/Score-125%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/get_next_line) |
 | | **Born2beRoot** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | - |
 | **2** | **push_swap** | ![Finalizado](https://img.shields.io/badge/Estado-Finalizado-success) | ![100/100](https://img.shields.io/badge/Score-100%2F100-success) | [Ver Repo](https://github.com/pmelo-cl/push_swap) |
